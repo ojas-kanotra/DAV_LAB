@@ -1,0 +1,561 @@
+id,season,city,date,team1,team2,toss_winner,toss_decision,winner,venue,result,result_margin,player_of_match
+1,2008,Chepauk,2008-04-01,GT,SRH,GT,bat,SRH,Chepauk Stadium,normal,19,Player_192
+2,2008,Wankhede,2008-04-02,KKR,PBKS,PBKS,bat,KKR,Wankhede Stadium,normal,13,Player_151
+3,2008,Chepauk,2008-04-03,PBKS,RR,PBKS,bat,RR,Chepauk Stadium,normal,15,Player_120
+4,2008,Chinnaswamy,2008-04-04,RCB,MI,MI,bat,MI,Chinnaswamy Stadium,normal,9,Player_83
+5,2008,Narendra,2008-04-05,KKR,PBKS,PBKS,bat,PBKS,Narendra Modi Stadium,normal,20,Player_2
+6,2008,Rajiv,2008-04-06,KKR,RCB,KKR,bat,KKR,Rajiv Gandhi Stadium,normal,8,Player_136
+7,2008,Narendra,2008-04-07,GT,RR,RR,bat,RR,Narendra Modi Stadium,normal,30,Player_171
+8,2008,Chepauk,2008-04-08,LSG,MI,LSG,field,LSG,Chepauk Stadium,normal,17,Player_198
+9,2008,Arun,2008-04-09,PBKS,SRH,PBKS,bat,SRH,Arun Jaitley Stadium,normal,37,Player_121
+10,2008,Wankhede,2008-04-10,GT,PBKS,PBKS,bat,GT,Wankhede Stadium,normal,20,Player_101
+11,2008,Wankhede,2008-04-11,RR,GT,GT,bat,RR,Wankhede Stadium,normal,4,Player_196
+12,2008,Chepauk,2008-04-12,PBKS,RCB,RCB,bat,RCB,Chepauk Stadium,normal,20,Player_176
+13,2008,Chinnaswamy,2008-04-13,GT,PBKS,GT,bat,PBKS,Chinnaswamy Stadium,normal,24,Player_21
+14,2008,Rajiv,2008-04-14,GT,SRH,GT,bat,SRH,Rajiv Gandhi Stadium,normal,35,Player_83
+15,2008,Narendra,2008-04-15,KKR,PBKS,PBKS,field,PBKS,Narendra Modi Stadium,normal,35,Player_151
+16,2008,Chinnaswamy,2008-04-16,MI,SRH,SRH,bat,SRH,Chinnaswamy Stadium,normal,26,Player_3
+17,2008,Narendra,2008-04-17,SRH,GT,GT,field,GT,Narendra Modi Stadium,normal,42,Player_110
+18,2008,Chepauk,2008-04-18,LSG,SRH,SRH,bat,SRH,Chepauk Stadium,normal,4,Player_4
+19,2008,Narendra,2008-04-19,MI,DC,MI,field,DC,Narendra Modi Stadium,normal,25,Player_161
+20,2008,Narendra,2008-04-20,CSK,SRH,CSK,field,SRH,Narendra Modi Stadium,normal,22,Player_195
+21,2008,Wankhede,2008-04-21,GT,MI,GT,field,MI,Wankhede Stadium,normal,38,Player_12
+22,2008,Chepauk,2008-04-22,SRH,MI,MI,bat,MI,Chepauk Stadium,normal,12,Player_126
+23,2008,Chepauk,2008-04-23,RCB,LSG,RCB,bat,LSG,Chepauk Stadium,normal,28,Player_118
+24,2008,Arun,2008-04-24,RR,PBKS,RR,bat,PBKS,Arun Jaitley Stadium,normal,23,Player_185
+25,2008,Narendra,2008-04-25,KKR,PBKS,KKR,bat,KKR,Narendra Modi Stadium,normal,43,Player_117
+26,2008,Arun,2008-04-26,SRH,DC,SRH,field,DC,Arun Jaitley Stadium,normal,31,Player_66
+27,2008,Eden,2008-04-27,DC,MI,DC,field,MI,Eden Gardens,normal,37,Player_107
+28,2008,Rajiv,2008-04-28,RCB,PBKS,RCB,field,RCB,Rajiv Gandhi Stadium,normal,26,Player_129
+29,2008,Wankhede,2008-04-29,SRH,RCB,SRH,field,SRH,Wankhede Stadium,normal,25,Player_70
+30,2008,Wankhede,2008-04-30,RCB,RR,RCB,field,RR,Wankhede Stadium,normal,9,Player_55
+31,2008,Arun,2008-05-01,RR,DC,DC,field,DC,Arun Jaitley Stadium,normal,35,Player_94
+32,2008,Arun,2008-05-02,RCB,KKR,KKR,field,KKR,Arun Jaitley Stadium,normal,32,Player_103
+33,2008,Narendra,2008-05-03,CSK,SRH,SRH,bat,CSK,Narendra Modi Stadium,normal,36,Player_158
+34,2008,Arun,2008-05-04,RR,CSK,RR,field,RR,Arun Jaitley Stadium,normal,42,Player_4
+35,2008,Arun,2008-05-05,RCB,MI,RCB,field,RCB,Arun Jaitley Stadium,normal,36,Player_21
+36,2009,Arun,2009-04-01,SRH,PBKS,PBKS,bat,SRH,Arun Jaitley Stadium,normal,46,Player_74
+37,2009,Chinnaswamy,2009-04-02,MI,CSK,MI,field,MI,Chinnaswamy Stadium,normal,40,Player_88
+38,2009,Rajiv,2009-04-03,SRH,LSG,SRH,bat,LSG,Rajiv Gandhi Stadium,normal,1,Player_175
+39,2009,Narendra,2009-04-04,RR,KKR,KKR,bat,KKR,Narendra Modi Stadium,normal,43,Player_33
+40,2009,Chepauk,2009-04-05,LSG,DC,LSG,bat,DC,Chepauk Stadium,normal,45,Player_88
+41,2009,Narendra,2009-04-06,GT,RCB,RCB,field,GT,Narendra Modi Stadium,normal,32,Player_87
+42,2009,Arun,2009-04-07,SRH,LSG,SRH,bat,LSG,Arun Jaitley Stadium,normal,8,Player_156
+43,2009,Chinnaswamy,2009-04-08,SRH,MI,MI,field,MI,Chinnaswamy Stadium,normal,20,Player_18
+44,2009,Arun,2009-04-09,RCB,SRH,SRH,field,RCB,Arun Jaitley Stadium,normal,20,Player_92
+45,2009,Eden,2009-04-10,DC,LSG,DC,bat,LSG,Eden Gardens,normal,10,Player_3
+46,2009,Narendra,2009-04-11,DC,GT,GT,field,DC,Narendra Modi Stadium,normal,41,Player_175
+47,2009,Chinnaswamy,2009-04-12,LSG,GT,GT,bat,GT,Chinnaswamy Stadium,normal,8,Player_96
+48,2009,Chepauk,2009-04-13,KKR,RCB,RCB,field,RCB,Chepauk Stadium,normal,33,Player_126
+49,2009,Eden,2009-04-14,LSG,GT,LSG,field,LSG,Eden Gardens,normal,37,Player_1
+50,2009,Chepauk,2009-04-15,SRH,DC,SRH,field,SRH,Chepauk Stadium,normal,7,Player_35
+51,2009,Eden,2009-04-16,MI,SRH,MI,bat,SRH,Eden Gardens,normal,37,Player_7
+52,2009,Rajiv,2009-04-17,RR,PBKS,RR,field,PBKS,Rajiv Gandhi Stadium,normal,23,Player_62
+53,2009,Narendra,2009-04-18,KKR,GT,KKR,field,GT,Narendra Modi Stadium,normal,15,Player_158
+54,2009,Arun,2009-04-19,DC,GT,DC,field,DC,Arun Jaitley Stadium,normal,48,Player_82
+55,2009,Rajiv,2009-04-20,RR,LSG,RR,field,LSG,Rajiv Gandhi Stadium,normal,31,Player_108
+56,2009,Narendra,2009-04-21,GT,KKR,KKR,bat,KKR,Narendra Modi Stadium,normal,24,Player_50
+57,2009,Eden,2009-04-22,RCB,MI,MI,bat,MI,Eden Gardens,normal,21,Player_128
+58,2009,Chinnaswamy,2009-04-23,RCB,CSK,RCB,field,RCB,Chinnaswamy Stadium,normal,18,Player_77
+59,2009,Rajiv,2009-04-24,GT,MI,GT,bat,MI,Rajiv Gandhi Stadium,normal,39,Player_3
+60,2009,Chepauk,2009-04-25,PBKS,SRH,SRH,field,PBKS,Chepauk Stadium,normal,44,Player_58
+61,2009,Narendra,2009-04-26,LSG,PBKS,LSG,field,PBKS,Narendra Modi Stadium,normal,10,Player_108
+62,2009,Chepauk,2009-04-27,LSG,MI,MI,field,MI,Chepauk Stadium,normal,24,Player_85
+63,2009,Arun,2009-04-28,RR,CSK,RR,field,RR,Arun Jaitley Stadium,normal,36,Player_119
+64,2009,Wankhede,2009-04-29,LSG,PBKS,PBKS,field,PBKS,Wankhede Stadium,normal,18,Player_83
+65,2009,Arun,2009-04-30,LSG,RR,RR,field,LSG,Arun Jaitley Stadium,normal,7,Player_26
+66,2009,Chepauk,2009-05-01,GT,CSK,CSK,field,CSK,Chepauk Stadium,normal,23,Player_27
+67,2009,Arun,2009-05-02,GT,DC,DC,field,DC,Arun Jaitley Stadium,normal,4,Player_198
+68,2009,Rajiv,2009-05-03,RCB,RR,RR,field,RR,Rajiv Gandhi Stadium,normal,27,Player_6
+69,2009,Eden,2009-05-04,DC,SRH,DC,bat,SRH,Eden Gardens,normal,2,Player_196
+70,2009,Wankhede,2009-05-05,RCB,PBKS,RCB,bat,PBKS,Wankhede Stadium,normal,7,Player_190
+71,2010,Chepauk,2010-04-01,PBKS,LSG,PBKS,bat,PBKS,Chepauk Stadium,normal,25,Player_140
+72,2010,Wankhede,2010-04-02,PBKS,CSK,CSK,bat,PBKS,Wankhede Stadium,normal,10,Player_69
+73,2010,Wankhede,2010-04-03,LSG,RR,LSG,bat,RR,Wankhede Stadium,normal,45,Player_70
+74,2010,Chinnaswamy,2010-04-04,GT,LSG,LSG,field,GT,Chinnaswamy Stadium,normal,26,Player_150
+75,2010,Rajiv,2010-04-05,RCB,DC,DC,bat,DC,Rajiv Gandhi Stadium,normal,20,Player_128
+76,2010,Rajiv,2010-04-06,KKR,GT,KKR,field,GT,Rajiv Gandhi Stadium,normal,2,Player_62
+77,2010,Narendra,2010-04-07,RCB,KKR,RCB,bat,KKR,Narendra Modi Stadium,normal,9,Player_18
+78,2010,Arun,2010-04-08,KKR,RCB,KKR,field,KKR,Arun Jaitley Stadium,normal,46,Player_169
+79,2010,Eden,2010-04-09,SRH,LSG,LSG,field,SRH,Eden Gardens,normal,33,Player_51
+80,2010,Chinnaswamy,2010-04-10,MI,GT,MI,field,MI,Chinnaswamy Stadium,normal,23,Player_145
+81,2010,Arun,2010-04-11,KKR,SRH,SRH,bat,SRH,Arun Jaitley Stadium,normal,9,Player_152
+82,2010,Wankhede,2010-04-12,DC,RR,RR,bat,DC,Wankhede Stadium,normal,9,Player_164
+83,2010,Eden,2010-04-13,DC,PBKS,PBKS,bat,DC,Eden Gardens,normal,5,Player_86
+84,2010,Arun,2010-04-14,LSG,DC,LSG,bat,LSG,Arun Jaitley Stadium,normal,26,Player_99
+85,2010,Rajiv,2010-04-15,PBKS,SRH,SRH,field,PBKS,Rajiv Gandhi Stadium,normal,12,Player_112
+86,2010,Rajiv,2010-04-16,DC,RCB,DC,field,DC,Rajiv Gandhi Stadium,normal,9,Player_41
+87,2010,Arun,2010-04-17,RCB,RR,RR,bat,RCB,Arun Jaitley Stadium,normal,14,Player_119
+88,2010,Chepauk,2010-04-18,MI,RR,RR,field,RR,Chepauk Stadium,normal,26,Player_16
+89,2010,Rajiv,2010-04-19,RCB,MI,RCB,field,RCB,Rajiv Gandhi Stadium,normal,31,Player_85
+90,2010,Rajiv,2010-04-20,CSK,SRH,CSK,bat,CSK,Rajiv Gandhi Stadium,normal,32,Player_56
+91,2010,Chepauk,2010-04-21,LSG,RCB,RCB,field,LSG,Chepauk Stadium,normal,49,Player_87
+92,2010,Eden,2010-04-22,DC,MI,DC,field,MI,Eden Gardens,normal,30,Player_82
+93,2010,Eden,2010-04-23,KKR,CSK,KKR,field,CSK,Eden Gardens,normal,10,Player_103
+94,2010,Chinnaswamy,2010-04-24,GT,RCB,RCB,field,GT,Chinnaswamy Stadium,normal,32,Player_131
+95,2010,Eden,2010-04-25,RCB,KKR,RCB,field,KKR,Eden Gardens,normal,9,Player_127
+96,2010,Wankhede,2010-04-26,DC,CSK,DC,field,CSK,Wankhede Stadium,normal,7,Player_70
+97,2010,Eden,2010-04-27,RCB,CSK,CSK,bat,RCB,Eden Gardens,normal,50,Player_193
+98,2010,Chinnaswamy,2010-04-28,DC,RR,RR,field,DC,Chinnaswamy Stadium,normal,31,Player_89
+99,2010,Arun,2010-04-29,GT,LSG,LSG,field,LSG,Arun Jaitley Stadium,normal,34,Player_45
+100,2010,Chepauk,2010-04-30,PBKS,RR,RR,bat,RR,Chepauk Stadium,normal,6,Player_43
+101,2010,Narendra,2010-05-01,CSK,MI,CSK,bat,CSK,Narendra Modi Stadium,normal,45,Player_106
+102,2010,Chinnaswamy,2010-05-02,LSG,DC,DC,bat,LSG,Chinnaswamy Stadium,normal,24,Player_81
+103,2010,Arun,2010-05-03,PBKS,RCB,RCB,field,PBKS,Arun Jaitley Stadium,normal,26,Player_199
+104,2010,Rajiv,2010-05-04,LSG,GT,GT,field,LSG,Rajiv Gandhi Stadium,normal,7,Player_189
+105,2010,Rajiv,2010-05-05,KKR,DC,DC,field,KKR,Rajiv Gandhi Stadium,normal,44,Player_144
+106,2011,Wankhede,2011-04-01,DC,KKR,DC,field,KKR,Wankhede Stadium,normal,14,Player_197
+107,2011,Narendra,2011-04-02,SRH,MI,SRH,field,SRH,Narendra Modi Stadium,normal,20,Player_134
+108,2011,Narendra,2011-04-03,PBKS,LSG,LSG,field,LSG,Narendra Modi Stadium,normal,14,Player_58
+109,2011,Eden,2011-04-04,RCB,RR,RR,field,RR,Eden Gardens,normal,10,Player_73
+110,2011,Chepauk,2011-04-05,DC,RCB,DC,bat,DC,Chepauk Stadium,normal,23,Player_130
+111,2011,Narendra,2011-04-06,RR,DC,DC,bat,DC,Narendra Modi Stadium,normal,22,Player_39
+112,2011,Chepauk,2011-04-07,DC,CSK,CSK,bat,DC,Chepauk Stadium,normal,27,Player_31
+113,2011,Chepauk,2011-04-08,LSG,MI,MI,field,MI,Chepauk Stadium,normal,16,Player_69
+114,2011,Rajiv,2011-04-09,RCB,PBKS,PBKS,bat,PBKS,Rajiv Gandhi Stadium,normal,25,Player_37
+115,2011,Rajiv,2011-04-10,SRH,PBKS,PBKS,field,SRH,Rajiv Gandhi Stadium,normal,36,Player_164
+116,2011,Chepauk,2011-04-11,MI,RR,MI,field,RR,Chepauk Stadium,normal,30,Player_27
+117,2011,Eden,2011-04-12,DC,RCB,RCB,field,RCB,Eden Gardens,normal,16,Player_162
+118,2011,Wankhede,2011-04-13,LSG,PBKS,PBKS,bat,PBKS,Wankhede Stadium,normal,8,Player_10
+119,2011,Arun,2011-04-14,SRH,CSK,CSK,field,CSK,Arun Jaitley Stadium,normal,26,Player_4
+120,2011,Narendra,2011-04-15,RR,SRH,SRH,field,SRH,Narendra Modi Stadium,normal,3,Player_9
+121,2011,Chinnaswamy,2011-04-16,PBKS,DC,PBKS,bat,DC,Chinnaswamy Stadium,normal,38,Player_17
+122,2011,Wankhede,2011-04-17,MI,SRH,MI,bat,MI,Wankhede Stadium,normal,29,Player_51
+123,2011,Chinnaswamy,2011-04-18,GT,KKR,KKR,bat,KKR,Chinnaswamy Stadium,normal,8,Player_191
+124,2011,Rajiv,2011-04-19,CSK,MI,CSK,bat,MI,Rajiv Gandhi Stadium,normal,26,Player_158
+125,2011,Eden,2011-04-20,KKR,DC,DC,bat,DC,Eden Gardens,normal,39,Player_149
+126,2011,Narendra,2011-04-21,LSG,GT,LSG,field,LSG,Narendra Modi Stadium,normal,16,Player_183
+127,2011,Rajiv,2011-04-22,LSG,MI,MI,field,LSG,Rajiv Gandhi Stadium,normal,2,Player_55
+128,2011,Arun,2011-04-23,DC,MI,MI,field,DC,Arun Jaitley Stadium,normal,48,Player_116
+129,2011,Arun,2011-04-24,RR,RCB,RCB,bat,RCB,Arun Jaitley Stadium,normal,49,Player_31
+130,2011,Chepauk,2011-04-25,CSK,MI,CSK,field,MI,Chepauk Stadium,normal,37,Player_181
+131,2011,Chepauk,2011-04-26,SRH,GT,GT,bat,SRH,Chepauk Stadium,normal,23,Player_130
+132,2011,Chepauk,2011-04-27,LSG,SRH,SRH,bat,SRH,Chepauk Stadium,normal,48,Player_9
+133,2011,Chinnaswamy,2011-04-28,SRH,GT,GT,bat,GT,Chinnaswamy Stadium,normal,25,Player_161
+134,2011,Narendra,2011-04-29,PBKS,MI,MI,field,MI,Narendra Modi Stadium,normal,40,Player_113
+135,2011,Eden,2011-04-30,SRH,KKR,KKR,field,SRH,Eden Gardens,normal,1,Player_125
+136,2011,Chinnaswamy,2011-05-01,MI,PBKS,MI,bat,PBKS,Chinnaswamy Stadium,normal,2,Player_142
+137,2011,Wankhede,2011-05-02,GT,SRH,GT,field,GT,Wankhede Stadium,normal,11,Player_98
+138,2011,Arun,2011-05-03,GT,LSG,LSG,bat,LSG,Arun Jaitley Stadium,normal,10,Player_91
+139,2011,Narendra,2011-05-04,LSG,KKR,KKR,field,LSG,Narendra Modi Stadium,normal,46,Player_100
+140,2011,Chepauk,2011-05-05,LSG,RCB,LSG,field,LSG,Chepauk Stadium,normal,43,Player_155
+141,2012,Chepauk,2012-04-01,CSK,RCB,RCB,bat,CSK,Chepauk Stadium,normal,37,Player_166
+142,2012,Narendra,2012-04-02,LSG,GT,GT,field,LSG,Narendra Modi Stadium,normal,23,Player_82
+143,2012,Rajiv,2012-04-03,MI,SRH,SRH,field,MI,Rajiv Gandhi Stadium,normal,5,Player_160
+144,2012,Chepauk,2012-04-04,PBKS,LSG,LSG,bat,PBKS,Chepauk Stadium,normal,29,Player_66
+145,2012,Wankhede,2012-04-05,GT,SRH,GT,bat,SRH,Wankhede Stadium,normal,15,Player_49
+146,2012,Eden,2012-04-06,KKR,SRH,SRH,bat,SRH,Eden Gardens,normal,49,Player_2
+147,2012,Rajiv,2012-04-07,MI,KKR,MI,field,MI,Rajiv Gandhi Stadium,normal,8,Player_166
+148,2012,Chinnaswamy,2012-04-08,RCB,LSG,LSG,bat,LSG,Chinnaswamy Stadium,normal,3,Player_108
+149,2012,Wankhede,2012-04-09,DC,GT,GT,field,DC,Wankhede Stadium,normal,32,Player_60
+150,2012,Rajiv,2012-04-10,GT,LSG,GT,bat,GT,Rajiv Gandhi Stadium,normal,4,Player_197
+151,2012,Chepauk,2012-04-11,RCB,GT,GT,field,GT,Chepauk Stadium,normal,7,Player_19
+152,2012,Wankhede,2012-04-12,PBKS,LSG,PBKS,field,PBKS,Wankhede Stadium,normal,4,Player_102
+153,2012,Wankhede,2012-04-13,SRH,CSK,CSK,field,CSK,Wankhede Stadium,normal,47,Player_94
+154,2012,Narendra,2012-04-14,GT,CSK,GT,field,GT,Narendra Modi Stadium,normal,3,Player_14
+155,2012,Wankhede,2012-04-15,CSK,PBKS,PBKS,bat,CSK,Wankhede Stadium,normal,18,Player_151
+156,2012,Narendra,2012-04-16,RR,CSK,RR,bat,CSK,Narendra Modi Stadium,normal,28,Player_102
+157,2012,Rajiv,2012-04-17,GT,PBKS,PBKS,bat,GT,Rajiv Gandhi Stadium,normal,20,Player_118
+158,2012,Narendra,2012-04-18,DC,RR,DC,field,DC,Narendra Modi Stadium,normal,10,Player_27
+159,2012,Wankhede,2012-04-19,GT,RR,RR,bat,GT,Wankhede Stadium,normal,43,Player_59
+160,2012,Arun,2012-04-20,KKR,LSG,KKR,field,KKR,Arun Jaitley Stadium,normal,23,Player_165
+161,2012,Narendra,2012-04-21,SRH,CSK,CSK,bat,SRH,Narendra Modi Stadium,normal,2,Player_79
+162,2012,Chinnaswamy,2012-04-22,SRH,DC,SRH,bat,DC,Chinnaswamy Stadium,normal,44,Player_186
+163,2012,Chinnaswamy,2012-04-23,RR,KKR,RR,bat,RR,Chinnaswamy Stadium,normal,34,Player_94
+164,2012,Narendra,2012-04-24,DC,GT,GT,bat,GT,Narendra Modi Stadium,normal,33,Player_159
+165,2012,Rajiv,2012-04-25,DC,SRH,DC,field,DC,Rajiv Gandhi Stadium,normal,37,Player_18
+166,2012,Arun,2012-04-26,RR,LSG,LSG,bat,RR,Arun Jaitley Stadium,normal,35,Player_90
+167,2012,Wankhede,2012-04-27,LSG,DC,DC,field,LSG,Wankhede Stadium,normal,24,Player_33
+168,2012,Wankhede,2012-04-28,LSG,SRH,SRH,bat,SRH,Wankhede Stadium,normal,30,Player_4
+169,2012,Chinnaswamy,2012-04-29,DC,PBKS,DC,bat,DC,Chinnaswamy Stadium,normal,50,Player_71
+170,2012,Arun,2012-04-30,SRH,PBKS,SRH,bat,SRH,Arun Jaitley Stadium,normal,12,Player_63
+171,2012,Arun,2012-05-01,MI,RCB,RCB,bat,RCB,Arun Jaitley Stadium,normal,23,Player_150
+172,2012,Narendra,2012-05-02,MI,PBKS,PBKS,field,MI,Narendra Modi Stadium,normal,47,Player_69
+173,2012,Arun,2012-05-03,KKR,RCB,KKR,bat,KKR,Arun Jaitley Stadium,normal,43,Player_5
+174,2012,Wankhede,2012-05-04,CSK,KKR,KKR,field,KKR,Wankhede Stadium,normal,15,Player_148
+175,2012,Eden,2012-05-05,CSK,DC,DC,bat,DC,Eden Gardens,normal,27,Player_199
+176,2013,Arun,2013-04-01,SRH,MI,MI,field,MI,Arun Jaitley Stadium,normal,34,Player_92
+177,2013,Narendra,2013-04-02,GT,RR,RR,field,GT,Narendra Modi Stadium,normal,32,Player_32
+178,2013,Rajiv,2013-04-03,CSK,PBKS,CSK,bat,PBKS,Rajiv Gandhi Stadium,normal,34,Player_144
+179,2013,Rajiv,2013-04-04,LSG,CSK,LSG,bat,CSK,Rajiv Gandhi Stadium,normal,47,Player_176
+180,2013,Eden,2013-04-05,RCB,KKR,KKR,field,KKR,Eden Gardens,normal,37,Player_167
+181,2013,Chepauk,2013-04-06,RR,GT,RR,field,RR,Chepauk Stadium,normal,12,Player_11
+182,2013,Chepauk,2013-04-07,DC,MI,MI,field,MI,Chepauk Stadium,normal,7,Player_68
+183,2013,Narendra,2013-04-08,SRH,LSG,SRH,field,SRH,Narendra Modi Stadium,normal,37,Player_7
+184,2013,Chepauk,2013-04-09,KKR,MI,MI,field,MI,Chepauk Stadium,normal,35,Player_19
+185,2013,Arun,2013-04-10,RCB,DC,RCB,bat,DC,Arun Jaitley Stadium,normal,32,Player_11
+186,2013,Wankhede,2013-04-11,MI,PBKS,MI,bat,MI,Wankhede Stadium,normal,43,Player_147
+187,2013,Eden,2013-04-12,GT,SRH,GT,field,SRH,Eden Gardens,normal,3,Player_198
+188,2013,Chinnaswamy,2013-04-13,CSK,LSG,CSK,bat,CSK,Chinnaswamy Stadium,normal,37,Player_85
+189,2013,Arun,2013-04-14,LSG,RR,LSG,field,RR,Arun Jaitley Stadium,normal,45,Player_52
+190,2013,Chepauk,2013-04-15,KKR,DC,KKR,field,DC,Chepauk Stadium,normal,36,Player_92
+191,2013,Wankhede,2013-04-16,MI,LSG,MI,bat,LSG,Wankhede Stadium,normal,6,Player_136
+192,2013,Chinnaswamy,2013-04-17,CSK,RCB,CSK,field,RCB,Chinnaswamy Stadium,normal,42,Player_159
+193,2013,Eden,2013-04-18,MI,DC,MI,field,DC,Eden Gardens,normal,37,Player_17
+194,2013,Rajiv,2013-04-19,MI,KKR,MI,bat,KKR,Rajiv Gandhi Stadium,normal,24,Player_155
+195,2013,Wankhede,2013-04-20,CSK,PBKS,PBKS,field,PBKS,Wankhede Stadium,normal,34,Player_71
+196,2013,Narendra,2013-04-21,DC,CSK,DC,bat,CSK,Narendra Modi Stadium,normal,17,Player_77
+197,2013,Arun,2013-04-22,GT,MI,MI,bat,GT,Arun Jaitley Stadium,normal,31,Player_93
+198,2013,Arun,2013-04-23,SRH,DC,DC,bat,SRH,Arun Jaitley Stadium,normal,26,Player_71
+199,2013,Chepauk,2013-04-24,RR,LSG,RR,bat,LSG,Chepauk Stadium,normal,10,Player_62
+200,2013,Arun,2013-04-25,GT,PBKS,GT,field,PBKS,Arun Jaitley Stadium,normal,33,Player_120
+201,2013,Wankhede,2013-04-26,DC,RR,DC,field,DC,Wankhede Stadium,normal,16,Player_199
+202,2013,Chinnaswamy,2013-04-27,GT,DC,DC,bat,DC,Chinnaswamy Stadium,normal,5,Player_129
+203,2013,Narendra,2013-04-28,GT,DC,DC,bat,DC,Narendra Modi Stadium,normal,47,Player_50
+204,2013,Eden,2013-04-29,RR,GT,GT,bat,RR,Eden Gardens,normal,49,Player_192
+205,2013,Chinnaswamy,2013-04-30,RCB,RR,RCB,bat,RCB,Chinnaswamy Stadium,normal,39,Player_78
+206,2013,Arun,2013-05-01,SRH,PBKS,SRH,field,SRH,Arun Jaitley Stadium,normal,7,Player_150
+207,2013,Narendra,2013-05-02,RR,MI,MI,bat,RR,Narendra Modi Stadium,normal,38,Player_81
+208,2013,Chepauk,2013-05-03,DC,KKR,KKR,bat,KKR,Chepauk Stadium,normal,30,Player_27
+209,2013,Chinnaswamy,2013-05-04,CSK,GT,GT,bat,CSK,Chinnaswamy Stadium,normal,26,Player_104
+210,2013,Narendra,2013-05-05,GT,CSK,CSK,bat,CSK,Narendra Modi Stadium,normal,31,Player_103
+211,2014,Rajiv,2014-04-01,PBKS,DC,PBKS,bat,PBKS,Rajiv Gandhi Stadium,normal,22,Player_21
+212,2014,Wankhede,2014-04-02,PBKS,CSK,CSK,bat,CSK,Wankhede Stadium,normal,49,Player_23
+213,2014,Chepauk,2014-04-03,GT,PBKS,GT,field,GT,Chepauk Stadium,normal,11,Player_176
+214,2014,Rajiv,2014-04-04,SRH,DC,SRH,bat,DC,Rajiv Gandhi Stadium,normal,43,Player_28
+215,2014,Chepauk,2014-04-05,SRH,DC,SRH,field,DC,Chepauk Stadium,normal,26,Player_55
+216,2014,Arun,2014-04-06,GT,DC,DC,field,GT,Arun Jaitley Stadium,normal,33,Player_127
+217,2014,Chepauk,2014-04-07,KKR,DC,DC,field,DC,Chepauk Stadium,normal,29,Player_143
+218,2014,Narendra,2014-04-08,GT,PBKS,GT,field,GT,Narendra Modi Stadium,normal,8,Player_53
+219,2014,Chinnaswamy,2014-04-09,CSK,LSG,CSK,field,LSG,Chinnaswamy Stadium,normal,36,Player_140
+220,2014,Narendra,2014-04-10,SRH,MI,MI,bat,SRH,Narendra Modi Stadium,normal,39,Player_51
+221,2014,Arun,2014-04-11,CSK,LSG,CSK,field,CSK,Arun Jaitley Stadium,normal,26,Player_84
+222,2014,Rajiv,2014-04-12,PBKS,RCB,PBKS,field,RCB,Rajiv Gandhi Stadium,normal,11,Player_69
+223,2014,Arun,2014-04-13,SRH,RCB,SRH,bat,SRH,Arun Jaitley Stadium,normal,36,Player_176
+224,2014,Narendra,2014-04-14,PBKS,RR,PBKS,bat,RR,Narendra Modi Stadium,normal,14,Player_58
+225,2014,Arun,2014-04-15,DC,CSK,DC,bat,DC,Arun Jaitley Stadium,normal,19,Player_60
+226,2014,Rajiv,2014-04-16,RR,CSK,RR,field,RR,Rajiv Gandhi Stadium,normal,9,Player_159
+227,2014,Chinnaswamy,2014-04-17,KKR,CSK,KKR,bat,KKR,Chinnaswamy Stadium,normal,9,Player_194
+228,2014,Wankhede,2014-04-18,LSG,RCB,RCB,bat,RCB,Wankhede Stadium,normal,41,Player_156
+229,2014,Chinnaswamy,2014-04-19,MI,RCB,RCB,bat,MI,Chinnaswamy Stadium,normal,4,Player_19
+230,2014,Chinnaswamy,2014-04-20,MI,RCB,MI,bat,RCB,Chinnaswamy Stadium,normal,35,Player_91
+231,2014,Eden,2014-04-21,GT,CSK,CSK,field,CSK,Eden Gardens,normal,2,Player_61
+232,2014,Arun,2014-04-22,PBKS,RR,PBKS,field,PBKS,Arun Jaitley Stadium,normal,5,Player_183
+233,2014,Chepauk,2014-04-23,LSG,MI,LSG,field,LSG,Chepauk Stadium,normal,39,Player_106
+234,2014,Narendra,2014-04-24,RCB,CSK,RCB,bat,CSK,Narendra Modi Stadium,normal,42,Player_172
+235,2014,Chinnaswamy,2014-04-25,RR,RCB,RCB,field,RCB,Chinnaswamy Stadium,normal,17,Player_174
+236,2014,Narendra,2014-04-26,GT,DC,DC,field,DC,Narendra Modi Stadium,normal,33,Player_127
+237,2014,Rajiv,2014-04-27,DC,KKR,DC,field,DC,Rajiv Gandhi Stadium,normal,36,Player_196
+238,2014,Rajiv,2014-04-28,KKR,SRH,KKR,bat,SRH,Rajiv Gandhi Stadium,normal,19,Player_177
+239,2014,Wankhede,2014-04-29,SRH,GT,GT,bat,GT,Wankhede Stadium,normal,24,Player_91
+240,2014,Arun,2014-04-30,CSK,RR,RR,bat,CSK,Arun Jaitley Stadium,normal,49,Player_4
+241,2014,Narendra,2014-05-01,DC,PBKS,DC,bat,DC,Narendra Modi Stadium,normal,48,Player_171
+242,2014,Wankhede,2014-05-02,KKR,PBKS,KKR,field,KKR,Wankhede Stadium,normal,31,Player_49
+243,2014,Chepauk,2014-05-03,LSG,PBKS,PBKS,field,PBKS,Chepauk Stadium,normal,46,Player_144
+244,2014,Wankhede,2014-05-04,KKR,MI,MI,field,MI,Wankhede Stadium,normal,12,Player_147
+245,2014,Arun,2014-05-05,DC,GT,DC,bat,DC,Arun Jaitley Stadium,normal,16,Player_140
+246,2015,Rajiv,2015-04-01,LSG,MI,LSG,field,MI,Rajiv Gandhi Stadium,normal,26,Player_118
+247,2015,Narendra,2015-04-02,RR,RCB,RCB,bat,RR,Narendra Modi Stadium,normal,43,Player_149
+248,2015,Rajiv,2015-04-03,PBKS,SRH,PBKS,field,PBKS,Rajiv Gandhi Stadium,normal,13,Player_10
+249,2015,Arun,2015-04-04,RR,KKR,KKR,bat,KKR,Arun Jaitley Stadium,normal,14,Player_95
+250,2015,Narendra,2015-04-05,RCB,MI,RCB,bat,RCB,Narendra Modi Stadium,normal,33,Player_186
+251,2015,Eden,2015-04-06,PBKS,DC,PBKS,bat,DC,Eden Gardens,normal,46,Player_21
+252,2015,Eden,2015-04-07,SRH,RCB,SRH,bat,RCB,Eden Gardens,normal,15,Player_20
+253,2015,Narendra,2015-04-08,SRH,KKR,SRH,bat,KKR,Narendra Modi Stadium,normal,49,Player_27
+254,2015,Wankhede,2015-04-09,MI,CSK,CSK,field,MI,Wankhede Stadium,normal,33,Player_26
+255,2015,Rajiv,2015-04-10,DC,RR,DC,bat,RR,Rajiv Gandhi Stadium,normal,23,Player_83
+256,2015,Wankhede,2015-04-11,RR,DC,DC,bat,RR,Wankhede Stadium,normal,19,Player_74
+257,2015,Chepauk,2015-04-12,PBKS,RCB,PBKS,bat,RCB,Chepauk Stadium,normal,15,Player_132
+258,2015,Chinnaswamy,2015-04-13,GT,MI,GT,bat,MI,Chinnaswamy Stadium,normal,5,Player_141
+259,2015,Rajiv,2015-04-14,SRH,PBKS,PBKS,field,SRH,Rajiv Gandhi Stadium,normal,39,Player_101
+260,2015,Chepauk,2015-04-15,RR,KKR,KKR,field,KKR,Chepauk Stadium,normal,48,Player_30
+261,2015,Wankhede,2015-04-16,KKR,DC,DC,bat,KKR,Wankhede Stadium,normal,28,Player_10
+262,2015,Chinnaswamy,2015-04-17,GT,PBKS,PBKS,field,GT,Chinnaswamy Stadium,normal,19,Player_134
+263,2015,Narendra,2015-04-18,RR,LSG,RR,bat,RR,Narendra Modi Stadium,normal,4,Player_63
+264,2015,Rajiv,2015-04-19,CSK,LSG,LSG,field,CSK,Rajiv Gandhi Stadium,normal,50,Player_53
+265,2015,Arun,2015-04-20,RCB,GT,RCB,field,GT,Arun Jaitley Stadium,normal,25,Player_180
+266,2015,Wankhede,2015-04-21,RCB,PBKS,PBKS,bat,PBKS,Wankhede Stadium,normal,13,Player_113
+267,2015,Eden,2015-04-22,GT,RR,GT,field,GT,Eden Gardens,normal,5,Player_183
+268,2015,Rajiv,2015-04-23,CSK,RCB,RCB,bat,CSK,Rajiv Gandhi Stadium,normal,14,Player_87
+269,2015,Eden,2015-04-24,SRH,CSK,CSK,bat,CSK,Eden Gardens,normal,24,Player_115
+270,2015,Eden,2015-04-25,PBKS,RCB,RCB,field,PBKS,Eden Gardens,normal,36,Player_71
+271,2015,Arun,2015-04-26,CSK,KKR,KKR,bat,CSK,Arun Jaitley Stadium,normal,28,Player_26
+272,2015,Narendra,2015-04-27,SRH,PBKS,PBKS,bat,SRH,Narendra Modi Stadium,normal,20,Player_142
+273,2015,Arun,2015-04-28,DC,LSG,LSG,field,LSG,Arun Jaitley Stadium,normal,2,Player_12
+274,2015,Wankhede,2015-04-29,PBKS,CSK,CSK,bat,CSK,Wankhede Stadium,normal,41,Player_53
+275,2015,Wankhede,2015-04-30,GT,SRH,SRH,field,SRH,Wankhede Stadium,normal,5,Player_99
+276,2015,Eden,2015-05-01,PBKS,GT,GT,bat,GT,Eden Gardens,normal,5,Player_37
+277,2015,Rajiv,2015-05-02,KKR,LSG,LSG,field,LSG,Rajiv Gandhi Stadium,normal,16,Player_168
+278,2015,Chepauk,2015-05-03,PBKS,KKR,PBKS,bat,KKR,Chepauk Stadium,normal,29,Player_173
+279,2015,Arun,2015-05-04,LSG,DC,LSG,bat,LSG,Arun Jaitley Stadium,normal,31,Player_140
+280,2015,Wankhede,2015-05-05,DC,SRH,SRH,bat,DC,Wankhede Stadium,normal,49,Player_11
+281,2016,Eden,2016-04-01,SRH,CSK,SRH,field,SRH,Eden Gardens,normal,4,Player_195
+282,2016,Rajiv,2016-04-02,MI,KKR,MI,field,KKR,Rajiv Gandhi Stadium,normal,9,Player_112
+283,2016,Chinnaswamy,2016-04-03,GT,SRH,GT,bat,SRH,Chinnaswamy Stadium,normal,48,Player_69
+284,2016,Eden,2016-04-04,CSK,RCB,RCB,field,CSK,Eden Gardens,normal,50,Player_88
+285,2016,Narendra,2016-04-05,RCB,DC,RCB,field,DC,Narendra Modi Stadium,normal,44,Player_48
+286,2016,Chepauk,2016-04-06,DC,PBKS,PBKS,field,DC,Chepauk Stadium,normal,46,Player_155
+287,2016,Eden,2016-04-07,PBKS,SRH,SRH,bat,SRH,Eden Gardens,normal,5,Player_117
+288,2016,Arun,2016-04-08,RCB,KKR,KKR,field,RCB,Arun Jaitley Stadium,normal,39,Player_177
+289,2016,Chepauk,2016-04-09,RR,KKR,RR,field,KKR,Chepauk Stadium,normal,33,Player_87
+290,2016,Chepauk,2016-04-10,RR,MI,RR,bat,MI,Chepauk Stadium,normal,34,Player_75
+291,2016,Chinnaswamy,2016-04-11,RCB,CSK,RCB,field,RCB,Chinnaswamy Stadium,normal,45,Player_52
+292,2016,Wankhede,2016-04-12,DC,GT,GT,bat,GT,Wankhede Stadium,normal,16,Player_55
+293,2016,Chinnaswamy,2016-04-13,LSG,CSK,LSG,field,LSG,Chinnaswamy Stadium,normal,37,Player_143
+294,2016,Arun,2016-04-14,RR,DC,RR,field,RR,Arun Jaitley Stadium,normal,14,Player_120
+295,2016,Chepauk,2016-04-15,RR,KKR,KKR,bat,RR,Chepauk Stadium,normal,50,Player_54
+296,2016,Chinnaswamy,2016-04-16,MI,CSK,MI,bat,CSK,Chinnaswamy Stadium,normal,21,Player_199
+297,2016,Narendra,2016-04-17,SRH,PBKS,PBKS,field,SRH,Narendra Modi Stadium,normal,11,Player_118
+298,2016,Narendra,2016-04-18,MI,DC,MI,field,DC,Narendra Modi Stadium,normal,34,Player_184
+299,2016,Chinnaswamy,2016-04-19,LSG,SRH,SRH,bat,LSG,Chinnaswamy Stadium,normal,32,Player_138
+300,2016,Rajiv,2016-04-20,RR,GT,GT,field,RR,Rajiv Gandhi Stadium,normal,28,Player_11
+301,2016,Rajiv,2016-04-21,LSG,GT,LSG,field,LSG,Rajiv Gandhi Stadium,normal,24,Player_200
+302,2016,Wankhede,2016-04-22,GT,RR,GT,field,GT,Wankhede Stadium,normal,10,Player_137
+303,2016,Chepauk,2016-04-23,SRH,LSG,SRH,field,LSG,Chepauk Stadium,normal,2,Player_77
+304,2016,Eden,2016-04-24,KKR,PBKS,KKR,bat,KKR,Eden Gardens,normal,30,Player_90
+305,2016,Chepauk,2016-04-25,RR,SRH,SRH,bat,SRH,Chepauk Stadium,normal,19,Player_132
+306,2016,Narendra,2016-04-26,LSG,MI,LSG,bat,LSG,Narendra Modi Stadium,normal,50,Player_145
+307,2016,Eden,2016-04-27,RR,DC,RR,bat,RR,Eden Gardens,normal,11,Player_33
+308,2016,Arun,2016-04-28,SRH,DC,SRH,field,DC,Arun Jaitley Stadium,normal,19,Player_95
+309,2016,Wankhede,2016-04-29,PBKS,DC,PBKS,field,PBKS,Wankhede Stadium,normal,5,Player_168
+310,2016,Eden,2016-04-30,PBKS,CSK,CSK,field,PBKS,Eden Gardens,normal,14,Player_136
+311,2016,Chinnaswamy,2016-05-01,MI,LSG,LSG,field,LSG,Chinnaswamy Stadium,normal,3,Player_142
+312,2016,Rajiv,2016-05-02,CSK,RCB,RCB,bat,CSK,Rajiv Gandhi Stadium,normal,36,Player_174
+313,2016,Wankhede,2016-05-03,DC,KKR,DC,field,DC,Wankhede Stadium,normal,37,Player_173
+314,2016,Rajiv,2016-05-04,PBKS,GT,PBKS,field,GT,Rajiv Gandhi Stadium,normal,33,Player_18
+315,2016,Wankhede,2016-05-05,SRH,PBKS,PBKS,field,SRH,Wankhede Stadium,normal,41,Player_184
+316,2017,Chepauk,2017-04-01,PBKS,RR,PBKS,bat,PBKS,Chepauk Stadium,normal,20,Player_82
+317,2017,Chinnaswamy,2017-04-02,CSK,RCB,CSK,field,RCB,Chinnaswamy Stadium,normal,3,Player_32
+318,2017,Eden,2017-04-03,RR,PBKS,RR,bat,PBKS,Eden Gardens,normal,41,Player_165
+319,2017,Chinnaswamy,2017-04-04,RR,LSG,LSG,bat,RR,Chinnaswamy Stadium,normal,32,Player_130
+320,2017,Narendra,2017-04-05,LSG,PBKS,PBKS,field,PBKS,Narendra Modi Stadium,normal,34,Player_18
+321,2017,Chinnaswamy,2017-04-06,CSK,KKR,CSK,bat,KKR,Chinnaswamy Stadium,normal,3,Player_146
+322,2017,Chinnaswamy,2017-04-07,RR,PBKS,PBKS,field,RR,Chinnaswamy Stadium,normal,29,Player_156
+323,2017,Chepauk,2017-04-08,LSG,PBKS,LSG,bat,PBKS,Chepauk Stadium,normal,34,Player_23
+324,2017,Eden,2017-04-09,RCB,RR,RCB,bat,RR,Eden Gardens,normal,23,Player_185
+325,2017,Narendra,2017-04-10,KKR,SRH,KKR,field,SRH,Narendra Modi Stadium,normal,23,Player_70
+326,2017,Arun,2017-04-11,PBKS,CSK,CSK,field,CSK,Arun Jaitley Stadium,normal,7,Player_45
+327,2017,Rajiv,2017-04-12,SRH,RR,RR,field,RR,Rajiv Gandhi Stadium,normal,24,Player_192
+328,2017,Eden,2017-04-13,MI,LSG,LSG,bat,LSG,Eden Gardens,normal,2,Player_160
+329,2017,Wankhede,2017-04-14,KKR,RR,KKR,bat,KKR,Wankhede Stadium,normal,45,Player_28
+330,2017,Narendra,2017-04-15,SRH,RCB,SRH,field,SRH,Narendra Modi Stadium,normal,2,Player_38
+331,2017,Arun,2017-04-16,RCB,RR,RR,field,RR,Arun Jaitley Stadium,normal,38,Player_189
+332,2017,Chepauk,2017-04-17,RR,MI,RR,field,MI,Chepauk Stadium,normal,22,Player_123
+333,2017,Chinnaswamy,2017-04-18,CSK,MI,CSK,field,MI,Chinnaswamy Stadium,normal,40,Player_57
+334,2017,Arun,2017-04-19,CSK,RR,RR,field,CSK,Arun Jaitley Stadium,normal,11,Player_31
+335,2017,Arun,2017-04-20,GT,LSG,LSG,bat,GT,Arun Jaitley Stadium,normal,34,Player_5
+336,2017,Rajiv,2017-04-21,MI,LSG,LSG,bat,LSG,Rajiv Gandhi Stadium,normal,28,Player_37
+337,2017,Rajiv,2017-04-22,RCB,CSK,RCB,field,RCB,Rajiv Gandhi Stadium,normal,7,Player_94
+338,2017,Rajiv,2017-04-23,RCB,PBKS,RCB,field,PBKS,Rajiv Gandhi Stadium,normal,38,Player_2
+339,2017,Chepauk,2017-04-24,KKR,RR,KKR,field,KKR,Chepauk Stadium,normal,46,Player_29
+340,2017,Arun,2017-04-25,DC,SRH,SRH,bat,SRH,Arun Jaitley Stadium,normal,17,Player_101
+341,2017,Rajiv,2017-04-26,CSK,PBKS,PBKS,field,CSK,Rajiv Gandhi Stadium,normal,49,Player_10
+342,2017,Chinnaswamy,2017-04-27,MI,PBKS,MI,bat,PBKS,Chinnaswamy Stadium,normal,25,Player_178
+343,2017,Arun,2017-04-28,CSK,KKR,CSK,bat,CSK,Arun Jaitley Stadium,normal,31,Player_73
+344,2017,Eden,2017-04-29,LSG,KKR,LSG,field,KKR,Eden Gardens,normal,45,Player_198
+345,2017,Wankhede,2017-04-30,RR,RCB,RCB,bat,RCB,Wankhede Stadium,normal,29,Player_154
+346,2017,Chepauk,2017-05-01,CSK,LSG,LSG,bat,LSG,Chepauk Stadium,normal,37,Player_148
+347,2017,Arun,2017-05-02,SRH,RCB,RCB,field,RCB,Arun Jaitley Stadium,normal,5,Player_158
+348,2017,Chinnaswamy,2017-05-03,DC,PBKS,PBKS,bat,PBKS,Chinnaswamy Stadium,normal,12,Player_15
+349,2017,Chepauk,2017-05-04,RCB,CSK,RCB,field,CSK,Chepauk Stadium,normal,24,Player_192
+350,2017,Narendra,2017-05-05,GT,MI,MI,bat,GT,Narendra Modi Stadium,normal,8,Player_127
+351,2018,Chinnaswamy,2018-04-01,MI,KKR,KKR,field,KKR,Chinnaswamy Stadium,normal,36,Player_99
+352,2018,Eden,2018-04-02,KKR,PBKS,PBKS,field,PBKS,Eden Gardens,normal,6,Player_158
+353,2018,Chepauk,2018-04-03,RR,LSG,LSG,bat,RR,Chepauk Stadium,normal,43,Player_88
+354,2018,Narendra,2018-04-04,DC,RCB,RCB,field,RCB,Narendra Modi Stadium,normal,42,Player_87
+355,2018,Wankhede,2018-04-05,DC,CSK,CSK,bat,CSK,Wankhede Stadium,normal,38,Player_8
+356,2018,Chinnaswamy,2018-04-06,PBKS,RCB,PBKS,bat,PBKS,Chinnaswamy Stadium,normal,31,Player_148
+357,2018,Eden,2018-04-07,LSG,MI,LSG,bat,MI,Eden Gardens,normal,19,Player_164
+358,2018,Wankhede,2018-04-08,LSG,PBKS,PBKS,bat,PBKS,Wankhede Stadium,normal,27,Player_50
+359,2018,Rajiv,2018-04-09,GT,RR,RR,field,GT,Rajiv Gandhi Stadium,normal,27,Player_142
+360,2018,Rajiv,2018-04-10,KKR,PBKS,PBKS,bat,KKR,Rajiv Gandhi Stadium,normal,44,Player_91
+361,2018,Rajiv,2018-04-11,RCB,PBKS,PBKS,field,RCB,Rajiv Gandhi Stadium,normal,24,Player_8
+362,2018,Rajiv,2018-04-12,MI,PBKS,PBKS,field,MI,Rajiv Gandhi Stadium,normal,16,Player_176
+363,2018,Narendra,2018-04-13,PBKS,RCB,PBKS,bat,RCB,Narendra Modi Stadium,normal,12,Player_195
+364,2018,Eden,2018-04-14,RCB,PBKS,RCB,bat,RCB,Eden Gardens,normal,21,Player_148
+365,2018,Chepauk,2018-04-15,CSK,LSG,LSG,field,CSK,Chepauk Stadium,normal,44,Player_39
+366,2018,Eden,2018-04-16,PBKS,MI,MI,field,MI,Eden Gardens,normal,9,Player_118
+367,2018,Chepauk,2018-04-17,DC,RCB,RCB,bat,DC,Chepauk Stadium,normal,24,Player_104
+368,2018,Wankhede,2018-04-18,RCB,CSK,RCB,field,CSK,Wankhede Stadium,normal,39,Player_163
+369,2018,Chinnaswamy,2018-04-19,MI,LSG,MI,bat,LSG,Chinnaswamy Stadium,normal,15,Player_135
+370,2018,Arun,2018-04-20,RR,GT,GT,field,RR,Arun Jaitley Stadium,normal,23,Player_34
+371,2018,Wankhede,2018-04-21,SRH,RCB,SRH,bat,RCB,Wankhede Stadium,normal,16,Player_188
+372,2018,Wankhede,2018-04-22,PBKS,LSG,LSG,field,LSG,Wankhede Stadium,normal,36,Player_92
+373,2018,Chepauk,2018-04-23,MI,RCB,RCB,bat,RCB,Chepauk Stadium,normal,27,Player_47
+374,2018,Chepauk,2018-04-24,PBKS,CSK,PBKS,field,CSK,Chepauk Stadium,normal,25,Player_75
+375,2018,Rajiv,2018-04-25,CSK,RCB,RCB,field,CSK,Rajiv Gandhi Stadium,normal,1,Player_106
+376,2018,Arun,2018-04-26,DC,KKR,DC,bat,DC,Arun Jaitley Stadium,normal,13,Player_129
+377,2018,Eden,2018-04-27,PBKS,DC,PBKS,bat,PBKS,Eden Gardens,normal,42,Player_12
+378,2018,Wankhede,2018-04-28,CSK,PBKS,PBKS,field,PBKS,Wankhede Stadium,normal,45,Player_176
+379,2018,Eden,2018-04-29,RCB,KKR,RCB,field,KKR,Eden Gardens,normal,43,Player_7
+380,2018,Chepauk,2018-04-30,MI,SRH,SRH,bat,MI,Chepauk Stadium,normal,44,Player_55
+381,2018,Arun,2018-05-01,RR,GT,GT,field,GT,Arun Jaitley Stadium,normal,2,Player_175
+382,2018,Arun,2018-05-02,RCB,SRH,RCB,bat,RCB,Arun Jaitley Stadium,normal,36,Player_171
+383,2018,Wankhede,2018-05-03,CSK,LSG,CSK,field,LSG,Wankhede Stadium,normal,2,Player_85
+384,2018,Narendra,2018-05-04,PBKS,SRH,SRH,field,SRH,Narendra Modi Stadium,normal,25,Player_163
+385,2018,Wankhede,2018-05-05,PBKS,CSK,CSK,bat,PBKS,Wankhede Stadium,normal,11,Player_28
+386,2019,Arun,2019-04-01,RR,MI,RR,bat,MI,Arun Jaitley Stadium,normal,33,Player_112
+387,2019,Arun,2019-04-02,DC,PBKS,PBKS,field,DC,Arun Jaitley Stadium,normal,32,Player_166
+388,2019,Arun,2019-04-03,DC,KKR,DC,field,KKR,Arun Jaitley Stadium,normal,38,Player_120
+389,2019,Rajiv,2019-04-04,KKR,DC,KKR,bat,KKR,Rajiv Gandhi Stadium,normal,42,Player_99
+390,2019,Wankhede,2019-04-05,PBKS,GT,PBKS,bat,PBKS,Wankhede Stadium,normal,50,Player_127
+391,2019,Narendra,2019-04-06,DC,PBKS,DC,field,DC,Narendra Modi Stadium,normal,45,Player_46
+392,2019,Wankhede,2019-04-07,SRH,GT,GT,field,SRH,Wankhede Stadium,normal,38,Player_3
+393,2019,Wankhede,2019-04-08,MI,CSK,CSK,field,MI,Wankhede Stadium,normal,39,Player_36
+394,2019,Chinnaswamy,2019-04-09,PBKS,LSG,PBKS,field,LSG,Chinnaswamy Stadium,normal,7,Player_181
+395,2019,Narendra,2019-04-10,PBKS,GT,GT,bat,GT,Narendra Modi Stadium,normal,44,Player_89
+396,2019,Wankhede,2019-04-11,DC,PBKS,DC,field,DC,Wankhede Stadium,normal,41,Player_4
+397,2019,Rajiv,2019-04-12,KKR,GT,GT,field,GT,Rajiv Gandhi Stadium,normal,43,Player_185
+398,2019,Chepauk,2019-04-13,LSG,KKR,LSG,bat,KKR,Chepauk Stadium,normal,28,Player_106
+399,2019,Chinnaswamy,2019-04-14,RR,LSG,RR,field,RR,Chinnaswamy Stadium,normal,4,Player_180
+400,2019,Rajiv,2019-04-15,DC,MI,DC,field,MI,Rajiv Gandhi Stadium,normal,27,Player_93
+401,2019,Arun,2019-04-16,MI,PBKS,MI,bat,PBKS,Arun Jaitley Stadium,normal,4,Player_145
+402,2019,Wankhede,2019-04-17,GT,LSG,GT,bat,GT,Wankhede Stadium,normal,19,Player_103
+403,2019,Rajiv,2019-04-18,CSK,DC,DC,bat,CSK,Rajiv Gandhi Stadium,normal,3,Player_117
+404,2019,Chepauk,2019-04-19,LSG,RCB,RCB,bat,LSG,Chepauk Stadium,normal,3,Player_41
+405,2019,Eden,2019-04-20,GT,LSG,GT,bat,LSG,Eden Gardens,normal,20,Player_119
+406,2019,Narendra,2019-04-21,CSK,RCB,CSK,bat,CSK,Narendra Modi Stadium,normal,41,Player_170
+407,2019,Eden,2019-04-22,RCB,DC,DC,bat,RCB,Eden Gardens,normal,17,Player_82
+408,2019,Chepauk,2019-04-23,DC,PBKS,PBKS,field,DC,Chepauk Stadium,normal,17,Player_159
+409,2019,Rajiv,2019-04-24,CSK,KKR,KKR,bat,CSK,Rajiv Gandhi Stadium,normal,12,Player_35
+410,2019,Eden,2019-04-25,PBKS,GT,PBKS,bat,GT,Eden Gardens,normal,5,Player_158
+411,2019,Eden,2019-04-26,RCB,MI,MI,field,MI,Eden Gardens,normal,8,Player_133
+412,2019,Chinnaswamy,2019-04-27,PBKS,RR,RR,field,PBKS,Chinnaswamy Stadium,normal,17,Player_156
+413,2019,Chinnaswamy,2019-04-28,KKR,DC,DC,bat,DC,Chinnaswamy Stadium,normal,31,Player_124
+414,2019,Chepauk,2019-04-29,CSK,RR,CSK,bat,RR,Chepauk Stadium,normal,41,Player_80
+415,2019,Rajiv,2019-04-30,CSK,LSG,LSG,bat,LSG,Rajiv Gandhi Stadium,normal,28,Player_121
+416,2019,Arun,2019-05-01,RCB,DC,RCB,field,DC,Arun Jaitley Stadium,normal,32,Player_35
+417,2019,Chinnaswamy,2019-05-02,CSK,RR,CSK,field,CSK,Chinnaswamy Stadium,normal,27,Player_57
+418,2019,Arun,2019-05-03,RCB,MI,RCB,bat,MI,Arun Jaitley Stadium,normal,47,Player_26
+419,2019,Chinnaswamy,2019-05-04,LSG,MI,MI,field,LSG,Chinnaswamy Stadium,normal,21,Player_171
+420,2019,Rajiv,2019-05-05,KKR,DC,KKR,bat,KKR,Rajiv Gandhi Stadium,normal,38,Player_171
+421,2020,Rajiv,2020-04-01,RCB,SRH,RCB,bat,RCB,Rajiv Gandhi Stadium,normal,39,Player_50
+422,2020,Eden,2020-04-02,RCB,GT,RCB,field,GT,Eden Gardens,normal,4,Player_173
+423,2020,Chepauk,2020-04-03,MI,SRH,SRH,bat,MI,Chepauk Stadium,normal,32,Player_97
+424,2020,Wankhede,2020-04-04,RCB,GT,RCB,bat,RCB,Wankhede Stadium,normal,25,Player_68
+425,2020,Arun,2020-04-05,CSK,RCB,CSK,field,RCB,Arun Jaitley Stadium,normal,31,Player_86
+426,2020,Rajiv,2020-04-06,LSG,KKR,LSG,bat,KKR,Rajiv Gandhi Stadium,normal,14,Player_126
+427,2020,Narendra,2020-04-07,CSK,GT,GT,bat,CSK,Narendra Modi Stadium,normal,48,Player_120
+428,2020,Wankhede,2020-04-08,MI,GT,MI,bat,GT,Wankhede Stadium,normal,50,Player_50
+429,2020,Chinnaswamy,2020-04-09,RCB,PBKS,PBKS,bat,RCB,Chinnaswamy Stadium,normal,22,Player_104
+430,2020,Eden,2020-04-10,SRH,KKR,KKR,bat,SRH,Eden Gardens,normal,6,Player_3
+431,2020,Rajiv,2020-04-11,LSG,KKR,KKR,field,KKR,Rajiv Gandhi Stadium,normal,30,Player_181
+432,2020,Rajiv,2020-04-12,PBKS,MI,MI,field,MI,Rajiv Gandhi Stadium,normal,47,Player_166
+433,2020,Narendra,2020-04-13,RCB,KKR,RCB,field,KKR,Narendra Modi Stadium,normal,44,Player_58
+434,2020,Chinnaswamy,2020-04-14,SRH,PBKS,PBKS,bat,PBKS,Chinnaswamy Stadium,normal,16,Player_75
+435,2020,Arun,2020-04-15,RR,PBKS,PBKS,field,RR,Arun Jaitley Stadium,normal,31,Player_8
+436,2020,Narendra,2020-04-16,GT,LSG,GT,bat,LSG,Narendra Modi Stadium,normal,29,Player_82
+437,2020,Chepauk,2020-04-17,CSK,RR,RR,field,RR,Chepauk Stadium,normal,11,Player_6
+438,2020,Rajiv,2020-04-18,KKR,LSG,LSG,field,LSG,Rajiv Gandhi Stadium,normal,15,Player_83
+439,2020,Narendra,2020-04-19,LSG,CSK,LSG,bat,CSK,Narendra Modi Stadium,normal,11,Player_40
+440,2020,Rajiv,2020-04-20,MI,RCB,RCB,bat,RCB,Rajiv Gandhi Stadium,normal,34,Player_114
+441,2020,Narendra,2020-04-21,GT,DC,DC,bat,DC,Narendra Modi Stadium,normal,11,Player_79
+442,2020,Arun,2020-04-22,PBKS,GT,PBKS,bat,GT,Arun Jaitley Stadium,normal,17,Player_187
+443,2020,Eden,2020-04-23,LSG,GT,GT,field,GT,Eden Gardens,normal,25,Player_150
+444,2020,Rajiv,2020-04-24,LSG,SRH,LSG,bat,SRH,Rajiv Gandhi Stadium,normal,29,Player_63
+445,2020,Narendra,2020-04-25,LSG,GT,GT,bat,GT,Narendra Modi Stadium,normal,48,Player_108
+446,2020,Chinnaswamy,2020-04-26,DC,MI,MI,bat,DC,Chinnaswamy Stadium,normal,23,Player_161
+447,2020,Eden,2020-04-27,RCB,PBKS,PBKS,field,PBKS,Eden Gardens,normal,20,Player_96
+448,2020,Chinnaswamy,2020-04-28,LSG,MI,MI,bat,LSG,Chinnaswamy Stadium,normal,4,Player_154
+449,2020,Wankhede,2020-04-29,RCB,LSG,LSG,field,LSG,Wankhede Stadium,normal,39,Player_171
+450,2020,Narendra,2020-04-30,DC,KKR,DC,field,KKR,Narendra Modi Stadium,normal,31,Player_20
+451,2020,Chinnaswamy,2020-05-01,SRH,GT,SRH,field,GT,Chinnaswamy Stadium,normal,47,Player_193
+452,2020,Arun,2020-05-02,PBKS,RR,PBKS,field,RR,Arun Jaitley Stadium,normal,40,Player_70
+453,2020,Chinnaswamy,2020-05-03,RR,DC,RR,field,RR,Chinnaswamy Stadium,normal,9,Player_196
+454,2020,Arun,2020-05-04,RR,KKR,KKR,field,RR,Arun Jaitley Stadium,normal,49,Player_156
+455,2020,Rajiv,2020-05-05,RR,SRH,SRH,bat,RR,Rajiv Gandhi Stadium,normal,26,Player_121
+456,2021,Eden,2021-04-01,PBKS,SRH,SRH,bat,SRH,Eden Gardens,normal,16,Player_198
+457,2021,Chinnaswamy,2021-04-02,PBKS,MI,MI,field,PBKS,Chinnaswamy Stadium,normal,20,Player_30
+458,2021,Wankhede,2021-04-03,PBKS,RR,RR,bat,PBKS,Wankhede Stadium,normal,11,Player_83
+459,2021,Rajiv,2021-04-04,KKR,SRH,SRH,field,KKR,Rajiv Gandhi Stadium,normal,50,Player_105
+460,2021,Wankhede,2021-04-05,KKR,SRH,KKR,field,SRH,Wankhede Stadium,normal,47,Player_132
+461,2021,Chinnaswamy,2021-04-06,CSK,KKR,KKR,bat,KKR,Chinnaswamy Stadium,normal,44,Player_76
+462,2021,Wankhede,2021-04-07,LSG,PBKS,LSG,bat,PBKS,Wankhede Stadium,normal,29,Player_180
+463,2021,Wankhede,2021-04-08,MI,LSG,MI,bat,LSG,Wankhede Stadium,normal,4,Player_101
+464,2021,Arun,2021-04-09,MI,KKR,KKR,field,MI,Arun Jaitley Stadium,normal,34,Player_131
+465,2021,Narendra,2021-04-10,PBKS,GT,GT,field,PBKS,Narendra Modi Stadium,normal,38,Player_69
+466,2021,Eden,2021-04-11,PBKS,RCB,RCB,bat,RCB,Eden Gardens,normal,35,Player_3
+467,2021,Arun,2021-04-12,RR,PBKS,RR,field,RR,Arun Jaitley Stadium,normal,49,Player_112
+468,2021,Eden,2021-04-13,MI,DC,MI,field,DC,Eden Gardens,normal,30,Player_19
+469,2021,Chinnaswamy,2021-04-14,SRH,MI,MI,field,SRH,Chinnaswamy Stadium,normal,40,Player_53
+470,2021,Chinnaswamy,2021-04-15,SRH,PBKS,PBKS,field,PBKS,Chinnaswamy Stadium,normal,46,Player_71
+471,2021,Narendra,2021-04-16,CSK,GT,CSK,bat,GT,Narendra Modi Stadium,normal,2,Player_144
+472,2021,Chinnaswamy,2021-04-17,RR,MI,MI,bat,MI,Chinnaswamy Stadium,normal,5,Player_97
+473,2021,Eden,2021-04-18,GT,MI,MI,bat,GT,Eden Gardens,normal,15,Player_131
+474,2021,Wankhede,2021-04-19,DC,KKR,KKR,bat,KKR,Wankhede Stadium,normal,33,Player_116
+475,2021,Arun,2021-04-20,PBKS,LSG,LSG,field,PBKS,Arun Jaitley Stadium,normal,48,Player_126
+476,2021,Arun,2021-04-21,MI,PBKS,MI,field,MI,Arun Jaitley Stadium,normal,38,Player_86
+477,2021,Rajiv,2021-04-22,KKR,RR,RR,field,RR,Rajiv Gandhi Stadium,normal,4,Player_85
+478,2021,Rajiv,2021-04-23,PBKS,DC,PBKS,bat,PBKS,Rajiv Gandhi Stadium,normal,26,Player_164
+479,2021,Chinnaswamy,2021-04-24,LSG,RR,RR,field,LSG,Chinnaswamy Stadium,normal,19,Player_114
+480,2021,Chinnaswamy,2021-04-25,KKR,LSG,KKR,bat,KKR,Chinnaswamy Stadium,normal,48,Player_171
+481,2021,Eden,2021-04-26,DC,MI,DC,field,DC,Eden Gardens,normal,10,Player_156
+482,2021,Arun,2021-04-27,KKR,SRH,SRH,bat,KKR,Arun Jaitley Stadium,normal,43,Player_17
+483,2021,Chepauk,2021-04-28,DC,CSK,DC,field,CSK,Chepauk Stadium,normal,33,Player_80
+484,2021,Wankhede,2021-04-29,CSK,SRH,CSK,bat,SRH,Wankhede Stadium,normal,2,Player_84
+485,2021,Wankhede,2021-04-30,SRH,RR,RR,bat,RR,Wankhede Stadium,normal,1,Player_156
+486,2021,Narendra,2021-05-01,RCB,RR,RCB,bat,RR,Narendra Modi Stadium,normal,25,Player_45
+487,2021,Chinnaswamy,2021-05-02,PBKS,GT,PBKS,field,PBKS,Chinnaswamy Stadium,normal,10,Player_124
+488,2021,Chepauk,2021-05-03,SRH,LSG,SRH,field,SRH,Chepauk Stadium,normal,1,Player_71
+489,2021,Narendra,2021-05-04,RCB,CSK,RCB,field,CSK,Narendra Modi Stadium,normal,17,Player_154
+490,2021,Narendra,2021-05-05,SRH,PBKS,SRH,bat,SRH,Narendra Modi Stadium,normal,20,Player_169
+491,2022,Narendra,2022-04-01,RCB,KKR,KKR,field,KKR,Narendra Modi Stadium,normal,49,Player_71
+492,2022,Rajiv,2022-04-02,RR,SRH,SRH,field,RR,Rajiv Gandhi Stadium,normal,24,Player_92
+493,2022,Wankhede,2022-04-03,RR,DC,DC,bat,DC,Wankhede Stadium,normal,22,Player_169
+494,2022,Rajiv,2022-04-04,RR,DC,DC,field,DC,Rajiv Gandhi Stadium,normal,43,Player_18
+495,2022,Eden,2022-04-05,RR,DC,RR,field,DC,Eden Gardens,normal,45,Player_42
+496,2022,Eden,2022-04-06,GT,CSK,GT,field,CSK,Eden Gardens,normal,20,Player_84
+497,2022,Chinnaswamy,2022-04-07,DC,RCB,RCB,bat,DC,Chinnaswamy Stadium,normal,39,Player_65
+498,2022,Wankhede,2022-04-08,SRH,PBKS,SRH,bat,SRH,Wankhede Stadium,normal,17,Player_166
+499,2022,Eden,2022-04-09,LSG,DC,DC,bat,LSG,Eden Gardens,normal,38,Player_76
+500,2022,Arun,2022-04-10,RCB,SRH,SRH,field,SRH,Arun Jaitley Stadium,normal,23,Player_70
+501,2022,Chepauk,2022-04-11,SRH,MI,SRH,bat,MI,Chepauk Stadium,normal,28,Player_45
+502,2022,Wankhede,2022-04-12,MI,RR,MI,bat,RR,Wankhede Stadium,normal,1,Player_165
+503,2022,Narendra,2022-04-13,CSK,LSG,LSG,bat,CSK,Narendra Modi Stadium,normal,15,Player_72
+504,2022,Arun,2022-04-14,GT,MI,GT,bat,MI,Arun Jaitley Stadium,normal,22,Player_74
+505,2022,Arun,2022-04-15,DC,LSG,LSG,field,LSG,Arun Jaitley Stadium,normal,38,Player_187
+506,2022,Rajiv,2022-04-16,DC,RR,RR,field,DC,Rajiv Gandhi Stadium,normal,47,Player_69
+507,2022,Rajiv,2022-04-17,SRH,KKR,KKR,bat,KKR,Rajiv Gandhi Stadium,normal,8,Player_14
+508,2022,Narendra,2022-04-18,RCB,KKR,RCB,field,RCB,Narendra Modi Stadium,normal,5,Player_200
+509,2022,Narendra,2022-04-19,CSK,SRH,SRH,field,SRH,Narendra Modi Stadium,normal,9,Player_145
+510,2022,Rajiv,2022-04-20,DC,CSK,DC,field,CSK,Rajiv Gandhi Stadium,normal,40,Player_115
+511,2022,Chinnaswamy,2022-04-21,CSK,SRH,CSK,field,CSK,Chinnaswamy Stadium,normal,7,Player_16
+512,2022,Narendra,2022-04-22,KKR,DC,KKR,field,DC,Narendra Modi Stadium,normal,30,Player_141
+513,2022,Eden,2022-04-23,SRH,MI,MI,field,SRH,Eden Gardens,normal,38,Player_89
+514,2022,Wankhede,2022-04-24,RCB,RR,RCB,bat,RCB,Wankhede Stadium,normal,2,Player_196
+515,2022,Narendra,2022-04-25,KKR,PBKS,PBKS,bat,KKR,Narendra Modi Stadium,normal,26,Player_112
+516,2022,Arun,2022-04-26,GT,PBKS,PBKS,bat,PBKS,Arun Jaitley Stadium,normal,25,Player_132
+517,2022,Eden,2022-04-27,RR,PBKS,RR,field,PBKS,Eden Gardens,normal,5,Player_172
+518,2022,Narendra,2022-04-28,RCB,PBKS,PBKS,field,RCB,Narendra Modi Stadium,normal,15,Player_155
+519,2022,Rajiv,2022-04-29,DC,GT,DC,bat,DC,Rajiv Gandhi Stadium,normal,11,Player_186
+520,2022,Arun,2022-04-30,RCB,PBKS,RCB,bat,PBKS,Arun Jaitley Stadium,normal,16,Player_23
+521,2022,Chepauk,2022-05-01,CSK,RCB,CSK,field,CSK,Chepauk Stadium,normal,37,Player_95
+522,2022,Arun,2022-05-02,RR,SRH,RR,bat,SRH,Arun Jaitley Stadium,normal,10,Player_132
+523,2022,Narendra,2022-05-03,RR,GT,RR,field,GT,Narendra Modi Stadium,normal,41,Player_41
+524,2022,Eden,2022-05-04,LSG,GT,LSG,bat,LSG,Eden Gardens,normal,38,Player_113
+525,2022,Eden,2022-05-05,PBKS,RR,RR,field,PBKS,Eden Gardens,normal,28,Player_44
+526,2023,Arun,2023-04-01,DC,RCB,DC,bat,RCB,Arun Jaitley Stadium,normal,44,Player_133
+527,2023,Eden,2023-04-02,GT,PBKS,GT,bat,PBKS,Eden Gardens,normal,22,Player_21
+528,2023,Rajiv,2023-04-03,KKR,RR,KKR,field,RR,Rajiv Gandhi Stadium,normal,45,Player_5
+529,2023,Chinnaswamy,2023-04-04,MI,SRH,MI,field,SRH,Chinnaswamy Stadium,normal,20,Player_150
+530,2023,Wankhede,2023-04-05,RR,CSK,CSK,bat,RR,Wankhede Stadium,normal,41,Player_160
+531,2023,Wankhede,2023-04-06,KKR,PBKS,PBKS,field,PBKS,Wankhede Stadium,normal,27,Player_43
+532,2023,Narendra,2023-04-07,GT,MI,MI,field,GT,Narendra Modi Stadium,normal,33,Player_69
+533,2023,Eden,2023-04-08,KKR,SRH,KKR,field,KKR,Eden Gardens,normal,22,Player_67
+534,2023,Chinnaswamy,2023-04-09,PBKS,DC,PBKS,bat,DC,Chinnaswamy Stadium,normal,21,Player_139
+535,2023,Arun,2023-04-10,PBKS,DC,PBKS,bat,DC,Arun Jaitley Stadium,normal,33,Player_25
+536,2023,Rajiv,2023-04-11,PBKS,CSK,CSK,bat,CSK,Rajiv Gandhi Stadium,normal,28,Player_145
+537,2023,Narendra,2023-04-12,MI,DC,MI,bat,DC,Narendra Modi Stadium,normal,5,Player_13
+538,2023,Arun,2023-04-13,PBKS,KKR,KKR,field,PBKS,Arun Jaitley Stadium,normal,30,Player_167
+539,2023,Eden,2023-04-14,CSK,RR,RR,bat,RR,Eden Gardens,normal,44,Player_74
+540,2023,Rajiv,2023-04-15,CSK,GT,GT,bat,CSK,Rajiv Gandhi Stadium,normal,12,Player_115
+541,2023,Eden,2023-04-16,PBKS,CSK,PBKS,bat,PBKS,Eden Gardens,normal,44,Player_195
+542,2023,Narendra,2023-04-17,GT,MI,GT,bat,MI,Narendra Modi Stadium,normal,47,Player_104
+543,2023,Chepauk,2023-04-18,DC,PBKS,PBKS,bat,DC,Chepauk Stadium,normal,12,Player_90
+544,2023,Rajiv,2023-04-19,LSG,DC,DC,bat,DC,Rajiv Gandhi Stadium,normal,6,Player_27
+545,2023,Rajiv,2023-04-20,MI,CSK,MI,field,CSK,Rajiv Gandhi Stadium,normal,11,Player_200
+546,2023,Narendra,2023-04-21,MI,RR,RR,bat,MI,Narendra Modi Stadium,normal,16,Player_165
+547,2023,Rajiv,2023-04-22,KKR,GT,GT,field,KKR,Rajiv Gandhi Stadium,normal,14,Player_130
+548,2023,Chepauk,2023-04-23,LSG,RR,RR,bat,LSG,Chepauk Stadium,normal,44,Player_106
+549,2023,Chepauk,2023-04-24,SRH,MI,SRH,field,SRH,Chepauk Stadium,normal,17,Player_95
+550,2023,Chepauk,2023-04-25,RCB,DC,DC,bat,DC,Chepauk Stadium,normal,32,Player_79
+551,2023,Narendra,2023-04-26,SRH,DC,SRH,field,DC,Narendra Modi Stadium,normal,6,Player_173
+552,2023,Wankhede,2023-04-27,GT,DC,DC,field,DC,Wankhede Stadium,normal,28,Player_88
+553,2023,Narendra,2023-04-28,GT,DC,GT,field,GT,Narendra Modi Stadium,normal,16,Player_110
+554,2023,Chepauk,2023-04-29,RR,PBKS,PBKS,bat,PBKS,Chepauk Stadium,normal,39,Player_187
+555,2023,Wankhede,2023-04-30,RCB,GT,RCB,bat,RCB,Wankhede Stadium,normal,41,Player_182
+556,2023,Chepauk,2023-05-01,LSG,PBKS,PBKS,field,LSG,Chepauk Stadium,normal,50,Player_180
+557,2023,Chepauk,2023-05-02,PBKS,RCB,PBKS,field,PBKS,Chepauk Stadium,normal,30,Player_57
+558,2023,Arun,2023-05-03,DC,PBKS,DC,field,DC,Arun Jaitley Stadium,normal,8,Player_93
+559,2023,Wankhede,2023-05-04,PBKS,CSK,PBKS,bat,CSK,Wankhede Stadium,normal,12,Player_25
+560,2023,Chepauk,2023-05-05,GT,SRH,GT,field,GT,Chepauk Stadium,normal,19,Player_143

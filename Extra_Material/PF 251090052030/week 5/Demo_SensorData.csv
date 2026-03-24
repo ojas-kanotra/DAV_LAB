@@ -1,0 +1,6 @@
+device_id,temperature,humidity,pressure
+D1,28,65,1012
+D2,-1,70,1013
+D3,30,-1,-1
+D4,95,68,1011
+D5,29,20,500
